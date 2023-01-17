@@ -1,1 +1,2 @@
-print("this is a test")
+print("this is two test")
+print("this is new test")
